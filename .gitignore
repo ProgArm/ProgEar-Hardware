@@ -1,0 +1,15 @@
+Thumbs.db
+*.bak
+*.bck
+*.bin
+*.rules
+desktop.ini
+_autosave*
+*.kicad_pcb-bak
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
